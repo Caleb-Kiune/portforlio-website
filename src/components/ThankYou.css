@@ -1,11 +1,11 @@
 .thankyou-container {
-  background-image: url("src/images/HeroImage.png"); /* 🖼️ replace with your image path */
+  background-image: url("src/images/HeroImage.png"); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   
   width: 100%;
-  height: 100vh; /* full screen height */
+  height: 100vh; 
   
   display: flex;
   justify-content: center;
@@ -16,7 +16,7 @@
   color: white;
 }
 
-/* Optional dark overlay for text readability */
+
 .thankyou-container::before {
   content: "";
   position: absolute;
@@ -44,7 +44,7 @@
   color: #ddd;
 }
 
-/* Responsive text scaling */
+
 @media (max-width: 768px) {
   .thankyou-content h1 {
     font-size: 2.5rem;

@@ -4,7 +4,7 @@
   align-items: stretch;     
   justify-content: space-between;
   width: 100%;
-  min-height: 80vh;        
+  min-height: 100;       
   gap: 40px;                
   padding: 40px;
   background-color: white
@@ -16,19 +16,19 @@
   display: flex;
   flex-direction: column;  
   justify-content: flex-start;
-  align-items: flex-start;   /* default left alignment */
+  align-items: flex-start;  
   text-align: left;
 }
 
 .about-welcome {
   color: burlywood;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 400;
   margin-bottom: 0px;
 }
 
 .about-header {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 700;
   margin-top: 5px;
   margin-bottom: 0px;
@@ -36,7 +36,7 @@
 }
 
 .about-description {
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 20px;
   margin-top: 10px;
@@ -55,10 +55,11 @@
 }
 
 .about-profile-pic {
-  width: 100%;
+  width: 80%;
   max-width: 400px;  
   border-radius: 10px;
   object-fit: cover;
+  margin-top: 25px;
 }
 
 .principal-name {
@@ -86,7 +87,7 @@
 
 .about-vision,
 .about-mission {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 5px;
@@ -97,12 +98,12 @@
   padding-right: 30px;
   padding-top: 5px;
   padding-bottom: 5px;
-  border-radius: 50px;
+  border-radius: 15px;
 }
 
 .about-vision-statement,
 .about-mission-statement {
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 20px;
   margin-top: 10px;

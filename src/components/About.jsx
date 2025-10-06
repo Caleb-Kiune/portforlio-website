@@ -24,13 +24,13 @@ export default function About() {
 
       <div className="about-right">
           <img src="src/images/mission-vision.png" className="about-mission-pic"/>
-          <h1 className="about-vision">Vision</h1>
+          <h1 className="about-vision">VISION</h1>
           <p className="about-vision-statement">
             To be the leading force in redefining interior spaces across the world,
             blending creativity and functionality to shape environments that inspire,
             empower, and endure
           </p>
-          <h1 className="about-mission">Mission</h1>
+          <h1 className="about-mission">MISSION</h1>
           <p className="about-mission-statement">
             Essentia Designs Ltd is driven to redefine how people experience space.
             Creating interiors that balance beauty, function, and identity, so every
