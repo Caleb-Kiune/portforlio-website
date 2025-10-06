@@ -13,7 +13,7 @@ export default function Services() {
       <div className="services-body">
         <div className="service-card">
           <div className="image-wrapper">
-            <img src="src/images/interior-design.png" alt="Interior Design" />
+            <img src="/public/images/interior-design.png" alt="Interior Design" />
           </div>
           <h1 className="interior-design-header">INTERIOR DESIGN</h1>
           <p className="interior-design-description">
@@ -24,7 +24,7 @@ export default function Services() {
 
         <div className="service-card">
           <div className="image-wrapper">
-            <img src="/src/images/project-management.png" alt="Project Management" />
+            <img src="/public/images/project-management.png" alt="Project Management" />
           </div>
           <h1 className="project-management-header">PROJECT MANAGEMENT</h1>
           <p className="project-management-description">
@@ -35,7 +35,7 @@ export default function Services() {
 
         <div className="service-card">
           <div className="image-wrapper">
-            <img src="/src/images/project-management.png" alt="Consultancy" className="img.project-management-image"/>
+            <img src="/public/images/project-management.png" alt="Consultancy" className="img.project-management-image"/>
           </div>
           <h1 className="consultancy-header">CONSULTANCY</h1>
           <p className="consultancy-description">

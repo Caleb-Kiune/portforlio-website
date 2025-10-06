@@ -15,7 +15,7 @@ export default function About() {
             that don’t just look good, but live well.
           </p>
           <div className="about-profile-block">
-              <img src="src/images/profile-pic.JPG" className="about-profile-pic" />
+              <img src="public/images/profile-pic.JPG" className="about-profile-pic" />
               <h1 className="principal-name">ERICK M. WANJOHI</h1>
               <h1 className="principal-description">Founder & Principal Designer</h1>
           </div>
@@ -23,7 +23,7 @@ export default function About() {
       </div>
 
       <div className="about-right">
-          <img src="src/images/mission-vision.png" className="about-mission-pic"/>
+          <img src="public/images/mission-vision.png" className="about-mission-pic"/>
           <h1 className="about-vision">VISION</h1>
           <p className="about-vision-statement">
             To be the leading force in redefining interior spaces across the world,

@@ -1,5 +1,5 @@
 import "./Contact.css"
-import contactImg from "/src/images/contact-network.jpg" 
+import contactImg from "/public/images/contact-network.jpg" 
 import { Mail, Phone, Globe, MapPin } from "lucide-react"
 
 
