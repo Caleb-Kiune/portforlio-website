@@ -1,5 +1,5 @@
 .thankyou-container {
-  background-image: url("public/images/HeroImage.png"); 
+  background-image: url("/images/HeroImage.png"); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
